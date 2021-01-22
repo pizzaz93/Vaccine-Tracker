@@ -2,7 +2,6 @@
 <br>
 Covid 19 Vaccine Tracker by State - Notebook is live on Kaggle https://www.kaggle.com/peretzcohen/us-vaccine-status-by-state/data
 <br>
-<br>
 
 It can be a troubling time but we do have hope on the horizon, with the news we get daily about vaccines. Multiple companies releasing and getting their vaccines approved; we may yet soon see a path forward. 
 
@@ -21,9 +20,6 @@ THe population dataset is pulled from the 2019 US Census and I've uploaded it [h
 
 Feel Free to fork this notebook and improve on my work, I look forward to seeing what you create!
 
-
-<br>
-<br>
 *GNU General Public License v3.0*
 
 
