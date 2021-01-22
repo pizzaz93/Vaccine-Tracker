@@ -1,6 +1,6 @@
 **Vaccine-Tracker**
 <br>
-Covid 19 Vaccine Tracker by State - Notebook is live on Kaggle https://www.kaggle.com/peretzcohen/us-vaccine-status-by-state/data
+Covid 19 Vaccine Tracker by State - Notebook is live on Kaggle https://www.kaggle.com/peretzcohen/us-vaccine-tracker
 <br>
 
 It can be a troubling time but we do have hope on the horizon, with the news we get daily about vaccines. Multiple companies releasing and getting their vaccines approved; we may yet soon see a path forward. 
